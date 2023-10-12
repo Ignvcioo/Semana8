@@ -56,7 +56,6 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    //BitMAP
 
     private Bitmap loadImageFromNetwork(String imageURL) {
         try {
