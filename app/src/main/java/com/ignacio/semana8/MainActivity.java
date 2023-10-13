@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
 
+
     private Bitmap loadImageFromNetwork(String imageURL) {
         try {
             URL url = new URL(imageURL);
